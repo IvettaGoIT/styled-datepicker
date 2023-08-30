@@ -1,3 +1,1 @@
-# react-datepicker and styles for it
-
-[react-datepicker](https://www.npmjs.com/package/react-datepicker) 
+[react-datepicker](https://www.npmjs.com/package/react-datepicker) and styles for it
